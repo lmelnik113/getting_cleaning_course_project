@@ -1,6 +1,6 @@
 # Codebook
 
-This codebook explains the output of the run_analysis.R script.
+This codebook explains the output of the run_analysis.R script. Please note it uses the features_info.txt file from the https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip as a base, modifies it, and adds a summary of changes.:
 
 
 Feature Selection 
